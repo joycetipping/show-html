@@ -1,0 +1,12 @@
+Show HTML
+
+Joyce Tipping <joyce@joycetipping.com>
+MIT License
+
+Show HTML is a very simple wordpress plugin that provides an
+[html][/html] shortcode for displaying html code. It searches
+through the enclosed content and makes the following
+replacements:
+
+  <    &lt;
+  >    &gt;
