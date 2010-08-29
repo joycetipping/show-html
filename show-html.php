@@ -9,7 +9,7 @@
 * License: MIT
 * */
 
-function html ($atts, $content) {
+function html ($atts, $content = null) {
   $content = preg_replace ('/</', '&lt;', $content);
   $content = preg_replace ('/>/', '&gt;', $content);
   return "<pre>$content</pre>";
