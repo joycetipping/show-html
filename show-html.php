@@ -1,6 +1,6 @@
 <?php
 /*
-* Plugin Name: Show HTML Code
+* Plugin Name: Show HTML
 * Plugin URI: http://joycetipping.com
 * Description: A shortcode for displaying verbatim HTML.
 * Version: 1.0
